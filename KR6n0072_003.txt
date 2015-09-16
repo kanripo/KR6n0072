@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:27.433495
+#+DATE: 2015-08-30 20:57:29.104936
 #+TITLE: 辯中邊論
 #+PROPERTY: CBETA_ID T31n1600
 #+PROPERTY: ID KR6n0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1600
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0072_T_003-0473b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《辯中邊論》卷下¶
+《辯中邊論》卷下¶
 ¶
 世親菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
 
-6辯得果品
-:PROPERTIES:
-:head: 辯得果品第六
-:END:
-¶
+辯得果品第六¶
 
 已辯修位。得果云何。頌曰。¶
 
@@ -66,11 +61,7 @@
 謂後後等四果。釋者謂隨順等六果。分別前¶
 四果故。¶
 
-7辯無上乘品
-:PROPERTIES:
-:head: 辯無上乘品第七
-:END:
-¶
+辯無上乘品第七¶
 
 已辯得果。無上乘今當說。頌曰。¶
 

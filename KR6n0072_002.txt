@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:27.405425
+#+DATE: 2015-08-30 20:57:29.071070
 #+TITLE: 辯中邊論
 #+PROPERTY: CBETA_ID T31n1600
 #+PROPERTY: ID KR6n0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1600
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0072_T_002-0468c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《辯中邊論》卷中¶
+《辯中邊論》卷中¶
 ¶
 世親菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
 
-3辯真實品
-:PROPERTIES:
-:head: 辯真實品第三
-:END:
-¶
+辯真實品第三¶
 
 已辯其障。當說真實。頌曰。¶
 
@@ -421,11 +416,7 @@
 實。八顯不虛妄真如所顯真實。九入我執事。¶
 一切祕密所顯真實。¶
 
-4辯修對治品
-:PROPERTIES:
-:head: 辯修對治品第四
-:END:
-¶
+辯修對治品第四¶
 
 已辯真實。今次當辯修諸對治。即修一切菩¶
 提分法此中先應說修念住。頌曰。¶
@@ -660,11 +651,7 @@
 初位修中位修後位修有上修無上修謂所緣¶
 作意至得殊勝。¶
 
-5辯修分位品
-:PROPERTIES:
-:head: 辯修分位品第五
-:END:
-¶
+辯修分位品第五¶
 
 已說修對治。修分位云何。頌曰。¶
 

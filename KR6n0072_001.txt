@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:27.363556
+#+DATE: 2015-08-30 20:57:29.035696
 #+TITLE: 辯中邊論
 #+PROPERTY: CBETA_ID T31n1600
 #+PROPERTY: ID KR6n0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1600
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0072_T_001-0464b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1600[No.1599;cf.No.1601]¶
-
- 《辯中邊論》卷上¶
+No. 1600 [No. 1599; cf. No. 1601]¶
+《辯中邊論》卷上¶
 ¶
 世親菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
 
-1辯相品
-:PROPERTIES:
-:head: 辯相品第一
-:END:
-¶
+辯相品第一¶
 
 #+BEGIN_VERSE
 「　稽首造此論
@@ -371,11 +366,7 @@ No.1600[No.1599;cf.No.1601]¶
 二。謂無及有。空性有相。離有離無離異離一¶
 以為其。相。應知安立即異門等。¶
 
-2辯障品
-:PROPERTIES:
-:head: 辯障品第二
-:END:
-¶
+辯障品第二¶
 
 已辯其相。障今當說。頌曰。¶
 
